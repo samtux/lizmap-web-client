@@ -3,7 +3,6 @@
   <testsuites>
     <testsuite name="lizmap">
       <directory>edition/</directory>
-      <directory>classes/</directory>
     </testsuite>
   </testsuites>
 </phpunit>
